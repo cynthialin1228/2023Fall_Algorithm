@@ -1,0 +1,2 @@
+1. compile: make
+2. run: ./bin/mps inputs/<input file name> outputs/<output file name>
